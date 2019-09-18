@@ -1,0 +1,17 @@
+body{
+    background-image: url("../img/photo.jpeg");
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+    padding: 30vh 0 0 0;
+    color: lightpink;
+}
+
+p{
+    text-align: center;
+    color: red;
+}
